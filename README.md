@@ -1,2 +1,2 @@
-# hadsterface-llm-notes
+# hadsterface
 Misc LLM notebooks
